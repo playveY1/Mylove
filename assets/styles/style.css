@@ -362,7 +362,7 @@ display: block;
     } 
     @media screen and (max-width:430px){
         .paper{
-            left:6%;
+            left:8%;
         }
         .container{
             margin-top:80%;
@@ -383,6 +383,9 @@ display: block;
         top: -130%;
         left: 25%;
        
+        }
+        .letter__heart{
+            top:-25%;
         }
     }
 
